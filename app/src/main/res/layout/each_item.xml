@@ -10,8 +10,8 @@
         android:layout_margin="10dp"
         xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/profile_image"
-        android:layout_width="96dp"
-        android:layout_height="96dp"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
         android:src="@drawable/pic0"
         app:civ_border_width="2dp"
         app:civ_border_color="#FF000000"/>
@@ -32,7 +32,7 @@
             android:textSize="20sp"
             android:textStyle="bold"
             android:textColor="@color/black"
-            android:layout_marginTop="30dp"
+            android:layout_marginTop="20dp"
 
             android:text="Moosewala"/>
         <TextView
